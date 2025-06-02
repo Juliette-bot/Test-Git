@@ -13,3 +13,4 @@ console.log("les branches c'est chouette")
 console.log('Ca marche ou pas ?')
 
 
+console.log('Stan va tout faire bug')
